@@ -1,0 +1,6 @@
+City info for CityGoodData.txt
+The average population is: 353721.375
+The average area is: 133.86625
+The cities above the average population are: Albuquerque, NM, Kansas City, MO, Sacramento, CA, Colorado Springs, CO
+The largest distance is: Richmond, VA
+Is Baton Rouge, LA in the data? true
